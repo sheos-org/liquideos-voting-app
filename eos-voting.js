@@ -6,8 +6,8 @@ let privateKey = "";
 const networks = [
     {
         name: "Main Net",
-        host: "proxy.eosnode.tools",
-        port: 443,
+        host: "api.sheos.org",
+        port: 80,
         chainId: "aca376f206b8fc25a6ed44dbdc66547c36c6c33e3a119ffbeaef943642f0e906",
         secured: true
     },
