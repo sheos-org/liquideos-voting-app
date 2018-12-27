@@ -12,8 +12,8 @@ We created a standalone EOS voting application that signs your transactions loca
 
 ## To Download
 
-* **Windows [sheos-vote-v1.0.0-WIN.zip](https://www.dropbox.com/s/sw2becviwlogpua/sheos-vote-v1.0.0-WIN.zip?dl=1)**
-* **Mac OS X [sheos-vote-v1.0.0-OSX.zip](https://www.dropbox.com/s/wtg1287pktf5ann/sheos-vote-v1.0.0-OSX.zip?dl=1)**
+* **Windows [sheos-voter-v1.0.1-WIN.zip](https://www.dropbox.com/s/6eo79tamkinup95/sheos-voter-v1.0.1-WIN.zip?dl=1)**
+* **Mac OS X [sheos-voter-v1.0.1-OSX.zip](https://www.dropbox.com/s/k7zenf2pvtm3uk3/sheos-voter-v1.0.1-OSX.zip?dl=1)**
 
 ## To Use
 
