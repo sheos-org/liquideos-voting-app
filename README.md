@@ -1,4 +1,4 @@
-# sheos-vote
+# sheos-voter
 
 We created a standalone EOS voting application that signs your transactions locally with your private key and then executes the transaction on the blockchain. The reason for this is multi-fold:
 
