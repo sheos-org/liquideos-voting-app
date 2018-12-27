@@ -1,5 +1,7 @@
 # sheos-voter
 
+12/26/2018 - Updated API nodes!
+
 We created a standalone EOS voting application that signs your transactions locally with your private key and then executes the transaction on the blockchain. The reason for this is multi-fold:
 
 1. The only EOS voting tool that is endorsed is a command line application which is difficult to install and use and will greatly limit access to voting.
