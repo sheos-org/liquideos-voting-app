@@ -3,30 +3,22 @@
 
 let accountName = "";
 let privateKey = "";
+
 const networks = [
     {
         name: "Main Net",
         host: "api.sheos.org",
         port: 80,
         chainId: "aca376f206b8fc25a6ed44dbdc66547c36c6c33e3a119ffbeaef943642f0e906",
-        secured: true
+        secured: false
     },
     {
-        name: "Jungle2 Testnet",
+        name: "Jungle Testnet",
         host: "jungle2.cryptolions.io",
         chainId: "e70aaab8997e1dfce58fbfac80cbbb8fecec7b99cf982a9444273cbc64c41473",
         port: 80
-	secured: false
-    },
-    {
-      	name: "Crypto Kylin Testnet",
-      	host: "kylin.eoscanada.com",
-      	chainId: "5fff1dae8dc8e2fc4d5b23b2c7665c97f9e9d8edf2b6485a86ba311c25639191",
-      	port: 80,
-	      secured: false
     }
 ];
-
 
 function listNextClick() {
     window.location.href = "vote.html";
